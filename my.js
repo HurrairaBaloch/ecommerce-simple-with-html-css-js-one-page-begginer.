@@ -9,8 +9,8 @@ open.addEventListener("click", () => {
 });
 
 let click =
-    
 
-click.addEventListener("info"); 
 
-    alert("item added to cart");
+  click.addEventListener("info");
+
+alert("item added to cart");
